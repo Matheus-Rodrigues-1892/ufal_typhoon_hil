@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+.DS_Store
+Thumbs.db
+
+# Typhoon HIL temporary files
+*.tse.bak
+*.cus.bak
+
+# IDE
+.vscode/
+.idea/
+
+# Generated analysis outputs
+/Analysis/output_buck/

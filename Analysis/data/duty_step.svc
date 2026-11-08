@@ -1,0 +1,121 @@
+{
+    "signals": {
+        "Va1": {
+            "viewports": [
+                1,
+                5
+            ],
+            "type": "analog",
+            "color": {
+                "1": "#FF0000",
+                "5": "#FF0000"
+            },
+            "display": {
+                "1": "solid",
+                "5": "solid"
+            },
+            "is_manual": {
+                "1": false,
+                "5": false
+            }
+        },
+        "Vs1": {
+            "viewports": [
+                1
+            ],
+            "type": "analog",
+            "color": {
+                "1": "#00CC00"
+            },
+            "display": {
+                "1": "solid"
+            },
+            "is_manual": {
+                "1": false
+            }
+        },
+        "Ia1": {
+            "viewports": [
+                2
+            ],
+            "type": "analog",
+            "color": {
+                "2": "#FF0000"
+            },
+            "display": {
+                "2": "solid"
+            },
+            "is_manual": {
+                "2": false
+            }
+        },
+        "Ia2": {
+            "viewports": [
+                3
+            ],
+            "type": "analog",
+            "color": {
+                "3": "#FF0000"
+            },
+            "display": {
+                "3": "solid"
+            },
+            "is_manual": {
+                "3": false
+            }
+        },
+        "Ia3": {
+            "viewports": [
+                4
+            ],
+            "type": "analog",
+            "color": {
+                "4": "#FF0000"
+            },
+            "display": {
+                "4": "solid"
+            },
+            "is_manual": {
+                "4": false
+            }
+        }
+    },
+    "viewports": {
+        "1": {
+            "log_scale_x": false,
+            "log_scale_y": false,
+            "y_axis_db": false
+        },
+        "2": {
+            "log_scale_x": false,
+            "log_scale_y": false,
+            "y_axis_db": false
+        },
+        "3": {
+            "log_scale_x": false,
+            "log_scale_y": false,
+            "y_axis_db": false
+        },
+        "4": {
+            "log_scale_x": false,
+            "log_scale_y": false,
+            "y_axis_db": false
+        },
+        "5": {
+            "log_scale_x": false,
+            "log_scale_y": false,
+            "y_axis_db": false
+        },
+        "6": {
+            "log_scale_x": false,
+            "log_scale_y": false,
+            "y_axis_db": false
+        }
+    },
+    "plot_settings": {
+        "layout": "Vertical",
+        "background_color": "white",
+        "legend_visible": true,
+        "signals_tooltips_enabled": true
+    }
+}

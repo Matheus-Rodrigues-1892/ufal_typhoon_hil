@@ -1,0 +1,10 @@
+# Bibliotecas utilizadas pelo notebook buck_p1.ipynb
+numpy
+pandas
+matplotlib
+scipy
+ipython
+
+# Ambiente para abrir e executar o notebook
+jupyterlab
+ipykernel
